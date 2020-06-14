@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\zadanie10\zadanie10\obj\Debug\netcoreapp3.1\zadanie10.csprojAssemblyReference.cache
+C:\Users\user\source\repos\zadanie10\zadanie10\obj\Debug\netcoreapp3.1\zadanie10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\zadanie10\zadanie10\obj\Debug\netcoreapp3.1\zadanie10.AssemblyInfo.cs
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.exe
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.deps.json
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.runtimeconfig.json
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.runtimeconfig.dev.json
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.dll
+C:\Users\user\source\repos\zadanie10\zadanie10\bin\Debug\netcoreapp3.1\zadanie10.pdb
+C:\Users\user\source\repos\zadanie10\zadanie10\obj\Debug\netcoreapp3.1\zadanie10.dll
+C:\Users\user\source\repos\zadanie10\zadanie10\obj\Debug\netcoreapp3.1\zadanie10.pdb
